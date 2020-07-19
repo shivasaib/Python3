@@ -8,10 +8,16 @@ Special Thanks 'Ivan Lourenço Gomes' for this amazing course on Udemy.
 
 #### This course covers details of python3 language :
 1)Basics of python.
+
 2)Datatypes.
+
 3)Using Python to solve real life problems with computer programs.
+
 4)Work with JSON and send HTTP requests to Web Servers and APIs to get data from external services.
+
 5)Statistics and Data Visualization.
+
 6)An introduction to Machine Learning in Python.
+
 7)Use Python to manipulate files, such as Excel sheets and TXT files.
 
